@@ -27,10 +27,7 @@ include '../inc/nav.php';
 								<div class="well bg-middle">
 								
 <p><h3>Zasady Ogólne:</h3><br>
-<div id="root" class="collapse">
-    <p><b>0. Root ma zawsze rację;</b></p>
-</div>
-<a href="#root" style="text-decoration: none" data-toggle="collapse">1.</a> Wchodząc na serwer TeamSpeak automatycznie oświadczasz, że znasz treść regulaminu i zobowiązujesz się do jego przestrzegania;<br>
+1. Wchodząc na serwer TeamSpeak automatycznie oświadczasz, że znasz treść regulaminu i zobowiązujesz się do jego przestrzegania;<br>
 2. Nieznajomość regulaminu nie zwalnia z jego przestrzegania;<br>
 3. Wszelkie ważniejsze zmiany/eventy będą ogłaszane na naszej stronie i/lub spacerach informacyjnych;<br>
 4. Administracja nie jest zobowiązana do przywrócenia pełnych uprawnień użytkownikowi, bez względu na powód ich utraty;<br>
@@ -76,8 +73,8 @@ include '../inc/nav.php';
 	2.4 Osoby rozstrzygające kierują się przede wszystkim dobrem serwera i jego użytkowników;<br>
 	2.4 W sprawach nieuregulowanych Regulaminem mają zastosowanie: Ustawa z dnia 23 kwietnia 1964r. Kodeks cywilny (Dz.U.1964 nr 16 poz.93 z późn.zm.), ustawy szczególne oraz odpowiednie ratyfikowane umowy międzynarodowe;<br>
 3. Administracja zapewnia, iż dołoży najwyższej możliwej staranności, aby iPerion.pl działał w sposób ciągły i bezawaryjnie;<br>
-4. Uwagi, komentarze i pytania proszę kierować pod adres e-mail: mrsanten@wp.pl;<br>
-5. Regulamin wchodzi w życie z dniem jego publikacji na stronie iPerion.pl/regulamin.<br>
+4. Uwagi, komentarze i pytania proszę kierować pod adres e-mail: {placeholder};<br>
+5. Regulamin wchodzi w życie z dniem jego publikacji na stronie {placeholder}/regulamin.<br>
 
 <div id="podpis" style="text-align:right; font-style:italic;">
 [06.02.2017r]<br>
